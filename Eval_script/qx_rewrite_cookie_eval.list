@@ -1,4 +1,4 @@
-hostname=music.163.com,www.flyertea.com,*.smzdm.com,c.tieba.baidu.com,*.iqiyi.com,api.m.jd.com,credits.bz.mgtv.com,i.meituan.com,node.kg.qq.com,sf-integral-sign-in.weixinjia.net
+hostname = music.163.com,www.flyertea.com,*.smzdm.com,c.tieba.baidu.com,*.iqiyi.com,api.m.jd.com,credits.bz.mgtv.com,i.meituan.com,node.kg.qq.com,sf-integral-sign-in.weixinjia.net
 
 ^https:\/\/music\.163\.com\/m\/?.? url script-request-header eval_script.js
 
